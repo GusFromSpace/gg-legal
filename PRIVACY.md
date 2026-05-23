@@ -36,4 +36,4 @@ If this policy changes materially, the "Last updated" date above will reflect th
 
 ## Contact
 
-Questions? [gusfromspace@gmail.com](mailto:gusfromspace@gmail.com)
+Questions? [gusfromspace.dev@gmail.com](mailto:gusfromspace.dev@gmail.com)
